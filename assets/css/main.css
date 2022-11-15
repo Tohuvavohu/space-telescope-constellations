@@ -208,6 +208,10 @@ ul li {
   background-color: #000;
 }
 
+.btn-red{
+  color: #fff;
+  background-color: #e74c3c;
+}
 /* 
  * 3.5 Helper Class: background
  */
